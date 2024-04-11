@@ -1,0 +1,60 @@
+body {
+    background-color: #FCFBE4 !important;
+    width: screen;
+}
+#nav-style {
+    background-color: #C87F9A !important;
+    height: 7.5%;
+    width: 100%;
+
+}
+#nav-text {
+    text-align: center;
+}
+#logo {
+    height: 7rem;
+    position: inherit;
+}
+#header-style{
+    height: 32.25rem;
+}
+#purple-button{
+    background-color: #661156;
+    border-style: none;
+    border-radius: 2rem;
+}
+#light-button {
+    background-color: #FCFBE4;
+    border-style: none;
+    border-radius: 2rem;
+}
+.purple-font {
+    font-family: Florencesans;
+    color: #661156;
+}
+.light-font {
+    font-family: Florencesans;
+    color:#FCFBE4;
+}
+h1 {
+    font-size: 3.5rem;
+}
+h2 {
+    font-size: 2rem;
+}
+h3 {
+    font-size: 1.5rem;
+}
+h4 {
+    font-size: 1rem;
+}
+.form-style {
+    background-color: #FCFBE4 !important;
+    border-color: #FCFBE4 !important;
+}
+.footer {
+    height: 10rem;
+    width: 100%;
+    background-color: #C87F9A;
+    border-radius: 40px 40px 0px 0px;
+}
